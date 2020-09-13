@@ -19,3 +19,24 @@ Please click on below links and <b>Download the HTML file</b>to see sample knowl
 [disease-COVID topology](https://github.com/ankitbarai507/Anveshak/blob/master/disease-COVID-19%20topology%20graph.html) <br/>
 [disease-COVID ](https://github.com/ankitbarai507/Anveshak/blob/master/disease-COVID-19%20knowledge%20graph.html) <br/>
 [gene-COVID-19](https://github.com/ankitbarai507/Anveshak/blob/master/gene-COVID-19%20knowledge%20graph.html) <br/>
+
+<br/>
+
+#some snapshots
+<br/>
+![alt text](images/0.PNG)
+<br/>
+![alt text](images/0_1.PNG)
+<br/>
+![alt text](images/1.PNG)
+<br/>
+![alt text](images/2.PNG)
+<br/>
+![alt text](images/3.PNG)
+<br/>
+![alt text](images/4.PNG)
+<br/>
+![alt text](images/5.PNG)
+<br/>
+![alt text](images/6.PNG)
+<br/>
